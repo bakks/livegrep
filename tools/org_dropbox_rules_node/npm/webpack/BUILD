@@ -2150,7 +2150,7 @@ npm_library(
         'webpack/node_modules/glob-parent/test.js',
         'webpack/node_modules/graceful-fs/LICENSE',
         'webpack/node_modules/graceful-fs/README.md',
-        'webpack/node_modules/graceful-fs/fs.js',
+        'webpack/node_modules/graceful-fs/clone.js',
         'webpack/node_modules/graceful-fs/graceful-fs.js',
         'webpack/node_modules/graceful-fs/legacy-streams.js',
         'webpack/node_modules/graceful-fs/package.json',
